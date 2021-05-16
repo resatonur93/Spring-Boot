@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>HelloWord</module>
+        <module>spring-mongo-rest-api</module>
     </modules>
 
     <properties>
