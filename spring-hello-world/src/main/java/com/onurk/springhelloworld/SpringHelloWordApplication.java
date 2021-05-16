@@ -1,13 +1,13 @@
-package com.onurk.springhelloword;
+package com.onurk.springhelloworld;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringHelloWordApplication {
+public class SpringHelloWorldApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringHelloWordApplication.class, args);
+        SpringApplication.run(SpringHelloWorldApplication.class, args);
     }
 
 }

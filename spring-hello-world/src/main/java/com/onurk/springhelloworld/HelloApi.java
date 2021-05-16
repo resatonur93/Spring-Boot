@@ -1,4 +1,4 @@
-package com.onurk.springhelloword;
+package com.onurk.springhelloworld;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
